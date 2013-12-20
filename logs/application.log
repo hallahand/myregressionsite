@@ -1,9 +1,9 @@
-2013-12-19 12:20:19,917 - [INFO] - from play in main 
+2013-12-19 17:14:08,137 - [INFO] - from play in main 
 Listening for HTTP on /0:0:0:0:0:0:0:0:9000
 
-2013-12-19 12:20:33,895 - [INFO] - from play in play-internal-execution-context-1 
-database [default] connected at jdbc:mysql://it-08/regressionsite
+2013-12-19 17:14:19,803 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:mysql://mysql.snowbound.local/dev_regressionsite
 
-2013-12-19 12:20:34,401 - [INFO] - from play in play-internal-execution-context-1 
+2013-12-19 17:14:20,271 - [INFO] - from play in play-internal-execution-context-1 
 Application started (Dev)
 

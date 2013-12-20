@@ -1,13 +1,13 @@
-[info] Updating {file:/C:/Users/dhallahan/workspace/regressionsiteRnd2-1/eclipse-regressionsite/project/}default-19c74f...
+[info] Updating {file:/C:/tmp/myregressionsite/project/}default-078deb...
 [debug] post 1.3 ivy file: using exact as default matcher
-[debug] :: resolving dependencies :: default#default-19c74f;0.1-SNAPSHOT
+[debug] :: resolving dependencies :: default#default-078deb;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom]
 [debug] 	validate = true
 [debug] 	refresh = false
 [debug] resolving dependencies for configuration 'compile'
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [compile]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=compile
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->play#sbt-plugin;2.1.5 [compile->default(compile)]
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [compile]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=compile
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->play#sbt-plugin;2.1.5 [compile->default(compile)]
 [debug] loadData of play#sbt-plugin;2.1.5 of rootConf=compile
 [debug] 	using sbt-chain to resolve play#sbt-plugin;2.1.5
 [info] Resolving play#sbt-plugin;2.1.5 ...
@@ -2164,12 +2164,12 @@
 [debug] == resolving dependencies com.typesafe.sbtidea#sbt-idea;1.1.1->commons-io#commons-io;2.0.1 [compile->master]
 [debug] loadData of commons-io#commons-io;2.0.1 of rootConf=compile
 [debug] resolving dependencies for configuration 'runtime'
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [runtime]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=runtime
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [compile]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=runtime
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [runtime]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=runtime
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [compile]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=runtime
 [debug] runtime is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->play#sbt-plugin;2.1.5 [compile->default(compile)]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->play#sbt-plugin;2.1.5 [compile->default(compile)]
 [debug] loadData of play#sbt-plugin;2.1.5 of rootConf=runtime
 [debug] == resolving dependencies play#sbt-plugin;2.1.5->play#sbt-link;2.1.5 [compile->default(compile)]
 [debug] loadData of play#sbt-link;2.1.5 of rootConf=runtime
@@ -3580,15 +3580,15 @@
 [debug] loadData of commons-io#commons-io;2.0.1 of rootConf=runtime
 [debug] runtime is loaded and no conf to load.  Skip loading
 [debug] resolving dependencies for configuration 'test'
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [test]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=test
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [runtime]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=test
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [test]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=test
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [runtime]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=test
 [debug] test is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [compile]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=test
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [compile]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=test
 [debug] test is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->play#sbt-plugin;2.1.5 [compile->default(compile)]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->play#sbt-plugin;2.1.5 [compile->default(compile)]
 [debug] loadData of play#sbt-plugin;2.1.5 of rootConf=test
 [debug] == resolving dependencies play#sbt-plugin;2.1.5->play#sbt-link;2.1.5 [compile->default(compile)]
 [debug] loadData of play#sbt-link;2.1.5 of rootConf=test
@@ -5000,9 +5000,9 @@
 [debug] loadData of commons-io#commons-io;2.0.1 of rootConf=test
 [debug] test is loaded and no conf to load.  Skip loading
 [debug] resolving dependencies for configuration 'provided'
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [provided]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=provided
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->org.scala-sbt#sbt;0.12.2 [provided->default(compile)]
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [provided]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=provided
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->org.scala-sbt#sbt;0.12.2 [provided->default(compile)]
 [debug] loadData of org.scala-sbt#sbt;0.12.2 of rootConf=provided
 [debug] 	using sbt-chain to resolve org.scala-sbt#sbt;0.12.2
 [info] Resolving org.scala-sbt#sbt;0.12.2 ...
@@ -6301,28 +6301,28 @@
 [debug] == resolving dependencies org.scala-sbt#sbt;0.12.2->org.scala-lang#scala-library;2.9.2 [compile->master]
 [debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=provided
 [debug] provided is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->default(compile)]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->default(compile)]
 [debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=provided
 [debug] provided is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->runtime]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->runtime]
 [debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=provided
 [debug] provided is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->compile]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->compile]
 [debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=provided
 [debug] provided is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->master]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->master]
 [debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=provided
 [debug] provided is loaded and no conf to load.  Skip loading
 [debug] resolving dependencies for configuration 'optional'
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [optional]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=optional
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [optional]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=optional
 [debug] resolving dependencies for configuration 'compile-internal'
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [compile-internal]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=compile-internal
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [compile]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=compile-internal
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [compile-internal]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=compile-internal
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [compile]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=compile-internal
 [debug] compile-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->play#sbt-plugin;2.1.5 [compile->default(compile)]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->play#sbt-plugin;2.1.5 [compile->default(compile)]
 [debug] loadData of play#sbt-plugin;2.1.5 of rootConf=compile-internal
 [debug] == resolving dependencies play#sbt-plugin;2.1.5->play#sbt-link;2.1.5 [compile->default(compile)]
 [debug] loadData of play#sbt-link;2.1.5 of rootConf=compile-internal
@@ -7734,13 +7734,13 @@
 [debug] == resolving dependencies com.typesafe.sbtidea#sbt-idea;1.1.1->commons-io#commons-io;2.0.1 [compile->master]
 [debug] loadData of commons-io#commons-io;2.0.1 of rootConf=compile-internal
 [debug] compile-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [optional]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=compile-internal
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [optional]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=compile-internal
 [debug] compile-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [provided]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=compile-internal
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [provided]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=compile-internal
 [debug] compile-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->org.scala-sbt#sbt;0.12.2 [provided->default(compile)]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->org.scala-sbt#sbt;0.12.2 [provided->default(compile)]
 [debug] loadData of org.scala-sbt#sbt;0.12.2 of rootConf=compile-internal
 [debug] == resolving dependencies org.scala-sbt#sbt;0.12.2->org.scala-sbt#main;0.12.2 [compile->default(compile)]
 [debug] loadData of org.scala-sbt#main;0.12.2 of rootConf=compile-internal
@@ -8582,28 +8582,28 @@
 [debug] == resolving dependencies org.scala-sbt#sbt;0.12.2->org.scala-lang#scala-library;2.9.2 [compile->master]
 [debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal
 [debug] compile-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->default(compile)]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->default(compile)]
 [debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal
 [debug] compile-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->runtime]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->runtime]
 [debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal
 [debug] compile-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->compile]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->compile]
 [debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal
 [debug] compile-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->master]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->master]
 [debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal
 [debug] compile-internal is loaded and no conf to load.  Skip loading
 [debug] resolving dependencies for configuration 'runtime-internal'
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [runtime-internal]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=runtime-internal
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [runtime]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=runtime-internal
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [runtime-internal]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=runtime-internal
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [runtime]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=runtime-internal
 [debug] runtime-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [compile]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=runtime-internal
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [compile]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=runtime-internal
 [debug] runtime-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->play#sbt-plugin;2.1.5 [compile->default(compile)]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->play#sbt-plugin;2.1.5 [compile->default(compile)]
 [debug] loadData of play#sbt-plugin;2.1.5 of rootConf=runtime-internal
 [debug] == resolving dependencies play#sbt-plugin;2.1.5->play#sbt-link;2.1.5 [compile->default(compile)]
 [debug] loadData of play#sbt-link;2.1.5 of rootConf=runtime-internal
@@ -10015,22 +10015,22 @@
 [debug] == resolving dependencies com.typesafe.sbtidea#sbt-idea;1.1.1->commons-io#commons-io;2.0.1 [compile->master]
 [debug] loadData of commons-io#commons-io;2.0.1 of rootConf=runtime-internal
 [debug] runtime-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [optional]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=runtime-internal
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [optional]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=runtime-internal
 [debug] runtime-internal is loaded and no conf to load.  Skip loading
 [debug] resolving dependencies for configuration 'test-internal'
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [test-internal]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=test-internal
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [test]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=test-internal
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [test-internal]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=test-internal
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [test]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=test-internal
 [debug] test-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [runtime]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=test-internal
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [runtime]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=test-internal
 [debug] test-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [compile]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=test-internal
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [compile]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=test-internal
 [debug] test-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->play#sbt-plugin;2.1.5 [compile->default(compile)]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->play#sbt-plugin;2.1.5 [compile->default(compile)]
 [debug] loadData of play#sbt-plugin;2.1.5 of rootConf=test-internal
 [debug] == resolving dependencies play#sbt-plugin;2.1.5->play#sbt-link;2.1.5 [compile->default(compile)]
 [debug] loadData of play#sbt-link;2.1.5 of rootConf=test-internal
@@ -11444,13 +11444,13 @@
 [debug] == resolving dependencies com.typesafe.sbtidea#sbt-idea;1.1.1->commons-io#commons-io;2.0.1 [compile->master]
 [debug] loadData of commons-io#commons-io;2.0.1 of rootConf=test-internal
 [debug] test-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [optional]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=test-internal
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [optional]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=test-internal
 [debug] test-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [provided]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=test-internal
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [provided]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=test-internal
 [debug] test-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->org.scala-sbt#sbt;0.12.2 [provided->default(compile)]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->org.scala-sbt#sbt;0.12.2 [provided->default(compile)]
 [debug] loadData of org.scala-sbt#sbt;0.12.2 of rootConf=test-internal
 [debug] == resolving dependencies org.scala-sbt#sbt;0.12.2->org.scala-sbt#main;0.12.2 [compile->default(compile)]
 [debug] loadData of org.scala-sbt#main;0.12.2 of rootConf=test-internal
@@ -12280,30 +12280,30 @@
 [debug] == resolving dependencies org.scala-sbt#sbt;0.12.2->org.scala-lang#scala-library;2.9.2 [compile->master]
 [debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
 [debug] test-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->default(compile)]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->default(compile)]
 [debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
 [debug] test-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->runtime]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->runtime]
 [debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
 [debug] test-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->compile]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->compile]
 [debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
 [debug] test-internal is loaded and no conf to load.  Skip loading
-[debug] == resolving dependencies default#default-19c74f;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->master]
+[debug] == resolving dependencies default#default-078deb;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [provided->master]
 [debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
 [debug] test-internal is loaded and no conf to load.  Skip loading
 [debug] resolving dependencies for configuration 'plugin'
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [plugin]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=plugin
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [plugin]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=plugin
 [debug] resolving dependencies for configuration 'sources'
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [sources]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=sources
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [sources]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=sources
 [debug] resolving dependencies for configuration 'docs'
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [docs]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=docs
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [docs]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=docs
 [debug] resolving dependencies for configuration 'pom'
-[debug] == resolving dependencies for default#default-19c74f;0.1-SNAPSHOT [pom]
-[debug] loadData of default#default-19c74f;0.1-SNAPSHOT of rootConf=pom
+[debug] == resolving dependencies for default#default-078deb;0.1-SNAPSHOT [pom]
+[debug] loadData of default#default-078deb;0.1-SNAPSHOT of rootConf=pom
 [debug] Nbr of module to sort : 101
 [debug] Sort dependencies of : play#sbt-plugin;2.1.5 / Number of dependencies = 18
 [debug] Sort dependencies of : org.scala-sbt#sbt;0.12.2 / Number of dependencies = 6
@@ -12802,7 +12802,7 @@
 [debug] org.scala-lang#scala-compiler;2.9.2 in test-internal: excluding org.scala-lang#scala-compiler;2.9.2!scala-compiler.jar
 [debug] org.scala-lang#scala-compiler;2.9.2 in provided: excluding org.scala-lang#scala-compiler;2.9.2!scala-compiler.jar
 [debug] org.scala-lang#scala-compiler;2.9.2 in compile-internal: excluding org.scala-lang#scala-compiler;2.9.2!scala-compiler.jar
-[debug] 	resolved ivy file produced in C:\Users\dhallahan\workspace\regressionsiteRnd2-1\eclipse-regressionsite\project\target\resolution-cache\default\default-19c74f\scala_2.9.2\sbt_0.12\0.1-SNAPSHOT\resolved.xml.xml
+[debug] 	resolved ivy file produced in C:\tmp\myregressionsite\project\target\resolution-cache\default\default-078deb\scala_2.9.2\sbt_0.12\0.1-SNAPSHOT\resolved.xml.xml
 [debug] :: downloading artifacts ::
 [debug] 	[NOT REQUIRED] play#sbt-plugin;2.1.5!sbt-plugin.jar
 [debug] 	[NOT REQUIRED] play#sbt-link;2.1.5!sbt-link.jar
@@ -12921,7 +12921,7 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#cache;0.12.2!cache.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.12.2!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-tools.testing#test-interface;0.5!test-interface.jar
-[debug] :: resolution report :: resolve 3229ms :: artifacts dl 113ms
+[debug] :: resolution report :: resolve 4657ms :: artifacts dl 110ms
 [debug] Nbr of module to sort : 61
 [debug] Sort dependencies of : play#sbt-plugin;2.1.5 / Number of dependencies = 18
 [debug] Sort dependencies of : play#sbt-link;2.1.5 / Number of dependencies = 1
@@ -13162,7 +13162,7 @@
 [debug] Module descriptor is processed : org.scalaz#scalaz-core_2.9.2;6.0.4
 [debug] Module descriptor is processed : com.typesafe.sbtidea#sbt-idea;1.1.1
 [debug] Module descriptor is processed : commons-io#commons-io;2.0.1
-[debug] 	report for default#default-19c74f;0.1-SNAPSHOT compile produced in C:\Users\dhallahan\workspace\regressionsiteRnd2-1\eclipse-regressionsite\project\target\resolution-cache\reports\default-default-19c74f\compile-resolved.xml
+[debug] 	report for default#default-078deb;0.1-SNAPSHOT compile produced in C:\tmp\myregressionsite\project\target\resolution-cache\reports\default-default-078deb\compile-resolved.xml
 [debug] Nbr of module to sort : 61
 [debug] Sort dependencies of : play#sbt-plugin;2.1.5 / Number of dependencies = 18
 [debug] Sort dependencies of : play#sbt-link;2.1.5 / Number of dependencies = 1
@@ -13403,7 +13403,7 @@
 [debug] Module descriptor is processed : org.scalaz#scalaz-core_2.9.2;6.0.4
 [debug] Module descriptor is processed : com.typesafe.sbtidea#sbt-idea;1.1.1
 [debug] Module descriptor is processed : commons-io#commons-io;2.0.1
-[debug] 	report for default#default-19c74f;0.1-SNAPSHOT runtime produced in C:\Users\dhallahan\workspace\regressionsiteRnd2-1\eclipse-regressionsite\project\target\resolution-cache\reports\default-default-19c74f\runtime-resolved.xml
+[debug] 	report for default#default-078deb;0.1-SNAPSHOT runtime produced in C:\tmp\myregressionsite\project\target\resolution-cache\reports\default-default-078deb\runtime-resolved.xml
 [debug] Nbr of module to sort : 61
 [debug] Sort dependencies of : play#sbt-plugin;2.1.5 / Number of dependencies = 18
 [debug] Sort dependencies of : play#sbt-link;2.1.5 / Number of dependencies = 1
@@ -13644,7 +13644,7 @@
 [debug] Module descriptor is processed : org.scalaz#scalaz-core_2.9.2;6.0.4
 [debug] Module descriptor is processed : com.typesafe.sbtidea#sbt-idea;1.1.1
 [debug] Module descriptor is processed : commons-io#commons-io;2.0.1
-[debug] 	report for default#default-19c74f;0.1-SNAPSHOT test produced in C:\Users\dhallahan\workspace\regressionsiteRnd2-1\eclipse-regressionsite\project\target\resolution-cache\reports\default-default-19c74f\test-resolved.xml
+[debug] 	report for default#default-078deb;0.1-SNAPSHOT test produced in C:\tmp\myregressionsite\project\target\resolution-cache\reports\default-default-078deb\test-resolved.xml
 [debug] Nbr of module to sort : 41
 [debug] Sort dependencies of : org.scala-sbt#sbt;0.12.2 / Number of dependencies = 6
 [debug] Sort dependencies of : org.scala-sbt#main;0.12.2 / Number of dependencies = 12
@@ -13880,9 +13880,9 @@
 [debug] Module descriptor is processed : org.scala-sbt#compiler-interface;0.12.2
 [debug] Module descriptor is processed : org.scala-sbt#precompiled-2_8_2;0.12.2
 [debug] Module descriptor is processed : org.scala-sbt#precompiled-2_10_0;0.12.2
-[debug] 	report for default#default-19c74f;0.1-SNAPSHOT provided produced in C:\Users\dhallahan\workspace\regressionsiteRnd2-1\eclipse-regressionsite\project\target\resolution-cache\reports\default-default-19c74f\provided-resolved.xml
+[debug] 	report for default#default-078deb;0.1-SNAPSHOT provided produced in C:\tmp\myregressionsite\project\target\resolution-cache\reports\default-default-078deb\provided-resolved.xml
 [debug] Nbr of module to sort : 0
-[debug] 	report for default#default-19c74f;0.1-SNAPSHOT optional produced in C:\Users\dhallahan\workspace\regressionsiteRnd2-1\eclipse-regressionsite\project\target\resolution-cache\reports\default-default-19c74f\optional-resolved.xml
+[debug] 	report for default#default-078deb;0.1-SNAPSHOT optional produced in C:\tmp\myregressionsite\project\target\resolution-cache\reports\default-default-078deb\optional-resolved.xml
 [debug] Nbr of module to sort : 101
 [debug] Sort dependencies of : play#sbt-plugin;2.1.5 / Number of dependencies = 18
 [debug] Sort dependencies of : org.scala-sbt#sbt;0.12.2 / Number of dependencies = 6
@@ -14369,7 +14369,7 @@
 [debug] Module descriptor is processed : org.scala-sbt#compiler-interface;0.12.2
 [debug] Module descriptor is processed : org.scala-sbt#precompiled-2_8_2;0.12.2
 [debug] Module descriptor is processed : org.scala-sbt#precompiled-2_10_0;0.12.2
-[debug] 	report for default#default-19c74f;0.1-SNAPSHOT compile-internal produced in C:\Users\dhallahan\workspace\regressionsiteRnd2-1\eclipse-regressionsite\project\target\resolution-cache\reports\default-default-19c74f\compile-internal-resolved.xml
+[debug] 	report for default#default-078deb;0.1-SNAPSHOT compile-internal produced in C:\tmp\myregressionsite\project\target\resolution-cache\reports\default-default-078deb\compile-internal-resolved.xml
 [debug] Nbr of module to sort : 61
 [debug] Sort dependencies of : play#sbt-plugin;2.1.5 / Number of dependencies = 18
 [debug] Sort dependencies of : play#sbt-link;2.1.5 / Number of dependencies = 1
@@ -14610,7 +14610,7 @@
 [debug] Module descriptor is processed : org.scalaz#scalaz-core_2.9.2;6.0.4
 [debug] Module descriptor is processed : com.typesafe.sbtidea#sbt-idea;1.1.1
 [debug] Module descriptor is processed : commons-io#commons-io;2.0.1
-[debug] 	report for default#default-19c74f;0.1-SNAPSHOT runtime-internal produced in C:\Users\dhallahan\workspace\regressionsiteRnd2-1\eclipse-regressionsite\project\target\resolution-cache\reports\default-default-19c74f\runtime-internal-resolved.xml
+[debug] 	report for default#default-078deb;0.1-SNAPSHOT runtime-internal produced in C:\tmp\myregressionsite\project\target\resolution-cache\reports\default-default-078deb\runtime-internal-resolved.xml
 [debug] Nbr of module to sort : 101
 [debug] Sort dependencies of : play#sbt-plugin;2.1.5 / Number of dependencies = 18
 [debug] Sort dependencies of : org.scala-sbt#sbt;0.12.2 / Number of dependencies = 6
@@ -15097,14 +15097,14 @@
 [debug] Module descriptor is processed : org.scala-sbt#compiler-interface;0.12.2
 [debug] Module descriptor is processed : org.scala-sbt#precompiled-2_8_2;0.12.2
 [debug] Module descriptor is processed : org.scala-sbt#precompiled-2_10_0;0.12.2
-[debug] 	report for default#default-19c74f;0.1-SNAPSHOT test-internal produced in C:\Users\dhallahan\workspace\regressionsiteRnd2-1\eclipse-regressionsite\project\target\resolution-cache\reports\default-default-19c74f\test-internal-resolved.xml
+[debug] 	report for default#default-078deb;0.1-SNAPSHOT test-internal produced in C:\tmp\myregressionsite\project\target\resolution-cache\reports\default-default-078deb\test-internal-resolved.xml
 [debug] Nbr of module to sort : 0
-[debug] 	report for default#default-19c74f;0.1-SNAPSHOT plugin produced in C:\Users\dhallahan\workspace\regressionsiteRnd2-1\eclipse-regressionsite\project\target\resolution-cache\reports\default-default-19c74f\plugin-resolved.xml
+[debug] 	report for default#default-078deb;0.1-SNAPSHOT plugin produced in C:\tmp\myregressionsite\project\target\resolution-cache\reports\default-default-078deb\plugin-resolved.xml
 [debug] Nbr of module to sort : 0
-[debug] 	report for default#default-19c74f;0.1-SNAPSHOT sources produced in C:\Users\dhallahan\workspace\regressionsiteRnd2-1\eclipse-regressionsite\project\target\resolution-cache\reports\default-default-19c74f\sources-resolved.xml
+[debug] 	report for default#default-078deb;0.1-SNAPSHOT sources produced in C:\tmp\myregressionsite\project\target\resolution-cache\reports\default-default-078deb\sources-resolved.xml
 [debug] Nbr of module to sort : 0
-[debug] 	report for default#default-19c74f;0.1-SNAPSHOT docs produced in C:\Users\dhallahan\workspace\regressionsiteRnd2-1\eclipse-regressionsite\project\target\resolution-cache\reports\default-default-19c74f\docs-resolved.xml
+[debug] 	report for default#default-078deb;0.1-SNAPSHOT docs produced in C:\tmp\myregressionsite\project\target\resolution-cache\reports\default-default-078deb\docs-resolved.xml
 [debug] Nbr of module to sort : 0
-[debug] 	report for default#default-19c74f;0.1-SNAPSHOT pom produced in C:\Users\dhallahan\workspace\regressionsiteRnd2-1\eclipse-regressionsite\project\target\resolution-cache\reports\default-default-19c74f\pom-resolved.xml
-[debug] 	resolve done (3229ms resolve - 113ms download)
+[debug] 	report for default#default-078deb;0.1-SNAPSHOT pom produced in C:\tmp\myregressionsite\project\target\resolution-cache\reports\default-default-078deb\pom-resolved.xml
+[debug] 	resolve done (4657ms resolve - 110ms download)
 [info] Done updating.
